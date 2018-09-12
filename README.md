@@ -8,3 +8,5 @@ Danyang Wang
 Yunyi Hu
 Shenjie Fu
 Kainan Ji
+
+Team 3 is the final code,others are the sub strategies.
